@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'American Typewriter', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+  height: 100%;
+  background-image: linear-gradient(to bottom right, rgb(192, 8, 192), rgb(234, 208, 74));
+  font-size: 16px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
